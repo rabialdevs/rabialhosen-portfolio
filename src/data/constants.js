@@ -253,8 +253,7 @@ export const projects = [
     date: "Aug 2023 - Sep 2023",
     description:
       "Designed an user-friendly, fully responsive website, where customers can buy and look for shoes. It has add to cart and search features.",
-    image:
-      "https://private-user-images.githubusercontent.com/141430599/287362811-ca105d19-1629-490a-ae0a-747be5e0e85b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE0NTkxMzIsIm5iZiI6MTcwMTQ1ODgzMiwicGF0aCI6Ii8xNDE0MzA1OTkvMjg3MzYyODExLWNhMTA1ZDE5LTE2MjktNDkwYS1hZTBhLTc0N2JlNWUwZTg1Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwMVQxOTI3MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNGM4YWM5MTc1MTdhNzRiMGZlMzEzMWQ0ZTY2ZGFhZGViMWI5MWI2NmFjY2Y3Y2RhZjFiNzE5YjhmOGU1YzYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.BmLDODzXmDQdFHG-2VKteysDtCuKeSgf7uaCvcr2I7U",
+    image: "https://i.ibb.co/L6GvcR9/Screenshot-2023-12-01-004630.png",
     tags: [
       "NextJS(Pages router) for building the UI",
       "Redux-toolkit for state management",
@@ -272,8 +271,7 @@ export const projects = [
     date: "Sep 2023 - Oct 2023",
     description:
       "This application can analyze a user’s personal financial expenses from a CSV file and generates reports containing comparative graphs, and many more useful data visualizations.",
-    image:
-      "https://private-user-images.githubusercontent.com/141430599/287363018-417cecda-8592-4cbb-8d33-cec246e1211c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE0NTkxOTQsIm5iZiI6MTcwMTQ1ODg5NCwicGF0aCI6Ii8xNDE0MzA1OTkvMjg3MzYzMDE4LTQxN2NlY2RhLTg1OTItNGNiYi04ZDMzLWNlYzI0NmUxMjExYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwMVQxOTI4MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZTkzYTJiODAwNGUwMGM4ZTY4YzczZTA5YTY1YzkxZGRmOTE5ODA1NzZlMGRmMDlhMzg0MDZkZDJmNmE1NWYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.yNFGzsEIJ7Zp1eTg-_e3v95TCLFQko_ryuZ5d7K8Cco",
+    image: "https://i.ibb.co/vY3Kftb/finance.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "https://github.com/rabialhosen404/Personal-Finance-Tracker-App",
@@ -285,8 +283,7 @@ export const projects = [
     date: "Oct 2022 - Nov 2023",
     description:
       "Designed a full fledged blog site, where anyone can read blogs. Writers can sign in and write and publish their blogs.",
-    image:
-      "https://private-user-images.githubusercontent.com/141430599/287362143-e6c2b631-d560-45fc-915f-9991e463c9f4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE0NTg5MzQsIm5iZiI6MTcwMTQ1ODYzNCwicGF0aCI6Ii8xNDE0MzA1OTkvMjg3MzYyMTQzLWU2YzJiNjMxLWQ1NjAtNDVmYy05MTVmLTk5OTFlNDYzYzlmNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwMVQxOTIzNTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lODA4M2M1NmVmNGFlNWZhYTg0NTk0MjUwODFjNDJkYWI5YzIxYmIwNGExOTYxYjU2YjI4Njk5MDgwOGQ5OTNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.DUuknt6yb1TwNmxcrk0P4AEhsDuJJd7QUi4V_-b0NB8",
+    image: "https://i.ibb.co/zXs3Wfj/Screenshot-2023-12-01-005604.png",
     tags: [
       " React for building the UI",
       "Redux-toolkit for state management",
@@ -303,8 +300,7 @@ export const projects = [
     date: "Nov 2023 - Nov 2023",
     description:
       "Designed a website, where writers can sign in and write and publish their blogs.",
-    image:
-      "https://private-user-images.githubusercontent.com/141430599/287363654-3f3f2439-594d-493c-abf0-e38895f1dc9f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE0NTkzNzksIm5iZiI6MTcwMTQ1OTA3OSwicGF0aCI6Ii8xNDE0MzA1OTkvMjg3MzYzNjU0LTNmM2YyNDM5LTU5NGQtNDkzYy1hYmYwLWUzODg5NWYxZGM5Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwMVQxOTMxMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hZGU2NDkxMmI1ZmZkNmVmYzc2NjUzMzg4MTAzNmYwNGZmNjdmMTFmYTlkMWVjYWEwM2U3NDI2NGRmODQ4M2JkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.224gT8ZWGuib3-bWf8Vg_SqS-1lyURs_27rNS3PHTqQ",
+    image: "https://i.ibb.co/pfncwJg/Screenshot-2023-12-02-010059.png",
     tags: [
       "ExpressJS as backend",
       "EJS as templating engine",
